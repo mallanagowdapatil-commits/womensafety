@@ -1,0 +1,13 @@
+{
+  "name": "women-safety",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SafeHer AI - Women's Safety Prediction & Emergency Response Platform",
+  "scripts": {
+    "dev": "npm run dev --prefix safeher-ai",
+    "start": "npm run dev --prefix safeher-ai",
+    "build": "npm run build --prefix safeher-ai",
+    "lint": "npm run lint --prefix safeher-ai"
+  }
+}
+
